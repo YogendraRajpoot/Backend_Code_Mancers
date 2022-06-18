@@ -1,5 +1,26 @@
 {
-  "post": [],
+  "post": [
+    {
+      "text": "Good Morning",
+      "file": "https://media1.giphy.com/media/dc5NLlkPEj92Vj09IY/giphy.gif?cid=d72b45767pcxpc6ld5j8fuavxdgq5g9rhe2dbswoledwpqii&rid=giphy.gif&ct=g",
+      "id": 1
+    },
+    {
+      "text": "Good Night",
+      "file": "https://media1.giphy.com/media/ZbOFDTsdJD77HfJyYl/giphy.gif?cid=d72b4576a8m4qzk8jckhp8cmig77ivlfsc1k3bodfnpmxa46&rid=giphy.gif&ct=g",
+      "id": 2
+    },
+    {
+      "text": "Bye",
+      "file": null,
+      "id": 3
+    },
+    {
+      "text": "Smile",
+      "file": "https://media4.giphy.com/media/9pZw57AyqOHy47oSZq/giphy.gif?cid=d72b4576qy6xwyhr0vml12ph1tk06aezs1lxw2matgqr1dgv&rid=giphy.gif&ct=g",
+      "id": 4
+    }
+  ],
   "comments": [
     {
       "id": 1,
